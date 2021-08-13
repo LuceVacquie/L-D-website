@@ -1,29 +1,24 @@
 import React from 'react'
 
-//LAYOUT
-import Layout from '../Layout'
-
 //COMPONENTS
-import PriceDisplay from '@/Components/pricing/PriceDisplay'
-import PriceDetails from '../Components/pricing/PriceDetails'
-import CTA from '../Components/CTA'
-import ClientBanner from '@/Components/ClientBanner'
+import PriceDisplay from '../components/pricing/PriceDisplay'
+import PriceDetails from '../components/pricing/PriceDetails'
+import CTA from '../components/CTA'
+import ClientBanner from '../components/ClientBanner'
 
 
 const Pricing = ()=> {
   
   return (
-    <Layout>
+    <div>
 
         <PriceDisplay/>
         
         <ClientBanner/>
 
         <PriceDetails/>
-
-        <CTA/>
         
-    </Layout>
+    </div>
     
   )
 }

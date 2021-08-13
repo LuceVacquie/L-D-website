@@ -23,7 +23,10 @@ module.exports = {
                 cyan: colors.cyan,
                 green: colors.green,
                 emerald: colors.emerald,
-            }
+            },
+            fontSize: {
+                'gigantic': '14rem',
+            },
         },
     },
 

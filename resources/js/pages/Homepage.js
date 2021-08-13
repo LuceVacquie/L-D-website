@@ -1,8 +1,5 @@
 import React from 'react'
 
-//LAYOUT
-import Layout from '../Layout'
-
 //COMPONENTS
 import Features from '../Components/homepage/Features'
 import ClientBanner from '../Components/homepage/Clients'
@@ -15,7 +12,7 @@ import PerfectFor from '../Components/homepage/PerfectFor'
 
 const Homepage = ()=> {
   return (
-    <Layout>
+    <div>
         <div className="w-screen h-screen flex justify-center relative top-0">
             <HeroCarousel/>
         </div>
@@ -29,10 +26,8 @@ const Homepage = ()=> {
         <TestimonialsCarousel/>
 
         <Stats/>
-
-        <CTA/>
         
-    </Layout>
+    </div>
     
   )
 }

@@ -10,6 +10,7 @@
         <div id="root">
             <App></App>
         </div>
+        <script src="path/to/chartjs/dist/chart.js"></script>
         <script src="/js/app.js"></script>
     </body>
 </html>

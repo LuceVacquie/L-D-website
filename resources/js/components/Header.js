@@ -1,6 +1,6 @@
 const FeaturesHeader = ({ h2, title, text }) => {
     return (
-      <div className="pt-24 bg-teal-700">
+      <div className="pt-24 bg-teal-900">
         <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-2xl font-semibold tracking-wider text-amber-600 uppercase">{h2}</h2>

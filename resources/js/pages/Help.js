@@ -1,17 +1,14 @@
 import React from 'react'
 
-//LAYOUT
-import Layout from '../Layout'
-
 //COMPONENTS
-import HelpHeader from '../Components/help/Header'
-import FAQs from '../Components/help/FAQs'
-import CTA from '../Components/CTA'
-import ClientBanner from '../Components/ClientBanner'
+import HelpHeader from '../components/help/Header'
+import FAQs from '../components/help/FAQs'
+import CTA from '../components/CTA'
+import ClientBanner from '../components/ClientBanner'
 
-const HelpPage = () => {
+const Help = () => {
     return (
-        <Layout>
+        <div>
             
             <HelpHeader/>
 
@@ -19,10 +16,8 @@ const HelpPage = () => {
 
             <FAQs/>
 
-            <CTA/>
-
-        </Layout>
+        </div>
     );
 }
 
-export default HelpPage
+export default Help

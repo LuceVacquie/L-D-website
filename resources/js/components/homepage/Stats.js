@@ -11,7 +11,7 @@ const Stats = () => {
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus repellat laudantium.
             </p>
           </div>
-          <dl className="mt-10 text-center sm:max-w-3xl sm:mx-auto sm:grid sm:grid-cols-3 sm:gap-8">
+          {/* <dl className="mt-10 text-center sm:max-w-3xl sm:mx-auto sm:grid sm:grid-cols-3 sm:gap-8">
             <div className="flex flex-col">
               <dt className="order-2 mt-2 text-lg leading-6 font-medium text-teal-200">Pepperoni</dt>
               <dd className="order-1 text-5xl font-extrabold text-white">100%</dd>
@@ -24,7 +24,12 @@ const Stats = () => {
               <dt className="order-2 mt-2 text-lg leading-6 font-medium text-teal-200">Calories</dt>
               <dd className="order-1 text-5xl font-extrabold text-white">100k+</dd>
             </div>
-          </dl>
+          </dl> */}
+
+          <div className="grid lg:grid-rows-2">
+
+          </div>
+
         </div>
       </div>
     )
