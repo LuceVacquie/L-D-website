@@ -11,7 +11,7 @@ const growthFeatures = [
   'Nam ut ipsa nesciunt culpa modi dolor',
 ]
 
-const PriceDisplay = () => {
+const PriceDisplay = ({ isDetailsVisible, setIsDetailsVisible }) => {
   return (
     <div className="pt-20 bg-teal-900">
       <div className="pt-12 px-4 sm:px-6 lg:px-8 lg:pt-20">
@@ -62,13 +62,13 @@ const PriceDisplay = () => {
                       </ul>
                       <div className="mt-8">
                         <div className="rounded-lg shadow-md">
-                          <a
-                            href="#"
+                          <button
+                            onClick={() => setIsDetailsVisible(!isDetailsVisible)}
                             className="block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-amber-600 hover:bg-gray-50"
                             aria-describedby="tier-hobby"
                           >
                             View plan details
-                          </a>
+                          </button>
                         </div>
                       </div>
                     </div>
@@ -115,13 +115,13 @@ const PriceDisplay = () => {
                     </ul>
                     <div className="mt-10">
                       <div className="rounded-lg shadow-md">
-                        <a
-                          href="#"
+                        <button
+                          onClick={() => setIsDetailsVisible(!isDetailsVisible)}
                           className="block w-full text-center rounded-lg border border-transparent bg-amber-600 px-6 py-4 text-xl leading-6 font-medium text-white hover:bg-amber-700"
                           aria-describedby="tier-growth"
                         >
                           View plan details
-                        </a>
+                        </button>
                       </div>
                     </div>
                   </div>
@@ -157,13 +157,13 @@ const PriceDisplay = () => {
                       </ul>
                       <div className="mt-8">
                         <div className="rounded-lg shadow-md">
-                          <a
-                            href="#"
+                          <button
+                            onClick={() => setIsDetailsVisible(!isDetailsVisible)}
                             className="block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-amber-600 hover:bg-gray-50"
                             aria-describedby="tier-scale"
                           >
                             View plan details
-                          </a>
+                          </button>
                         </div>
                       </div>
                     </div>

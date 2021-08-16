@@ -31,6 +31,8 @@
         "@headlessui/react": "^1.4.0",
         "@heroicons/react": "^1.0.3",
         "chart.js": "^3.5.0",
+        "react-chartjs-2": "^3.0.4",
+        "react-countup": "^5.2.0",
         "react-router-dom": "^5.2.0"
     }
 }

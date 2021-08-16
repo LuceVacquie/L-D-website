@@ -6,7 +6,6 @@ import ClientBanner from '../Components/homepage/Clients'
 import TestimonialsCarousel from '../Components/homepage/TestimonialsCarousel'
 import Stats from '../Components/homepage/Stats'
 import HeroCarousel from '../Components/homepage/HeroCarousel'
-import CTA from '../Components/CTA'
 import PerfectFor from '../Components/homepage/PerfectFor'
 
 

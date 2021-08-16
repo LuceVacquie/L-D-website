@@ -1,22 +1,25 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 //COMPONENTS
 import PriceDisplay from '../components/pricing/PriceDisplay'
 import PriceDetails from '../components/pricing/PriceDetails'
-import CTA from '../components/CTA'
-import ClientBanner from '../components/ClientBanner'
+// import ClientBanner from '../components/ClientBanner'
 
 
 const Pricing = ()=> {
   
+  const [isDetailsVisible, setIsDetailsVisible] = useState(false)
+
   return (
     <div>
 
-        <PriceDisplay/>
+        <PriceDisplay setIsDetailsVisible={setIsDetailsVisible} isDetailsVisible={isDetailsVisible}/>
         
-        <ClientBanner/>
+        {/* <ClientBanner/> */}
 
-        <PriceDetails/>
+        {isDetailsVisible && 
+          <PriceDetails/>
+        }
         
     </div>
     
