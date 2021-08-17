@@ -25,7 +25,7 @@ module.exports = {
                 emerald: colors.emerald,
             },
             fontSize: {
-                'gigantic': '14rem',
+                '10xl': '10rem',
             },
         },
     },
