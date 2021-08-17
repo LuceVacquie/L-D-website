@@ -24,9 +24,9 @@ module.exports = {
                 green: colors.green,
                 emerald: colors.emerald,
             },
-            fontSize: {
-                '10xl': '10rem',
-            },
+            // fontSize: {
+            //     '10xl': '10rem',
+            // },
         },
     },
 

@@ -1,12 +1,11 @@
-import CTA from '../components/CTA'
-import Header from '../components/Header'
+import HeaderSection from '../components/HeaderSection'
 
 const headerContent = ["Contact", "Get in touch.", "Convallis feugiat et aliquet pellentesque dictum nisi, velit. Egestas fermentum adipiscing risus quam ac consectetur mattis turpis tristique."]
 
 const Contact = () => {
   return (
     <div className="min-h-screen bg-white">
-        <Header h2={headerContent[0]} title={headerContent[1]} text={headerContent[2]}/>
+        <HeaderSection h2={headerContent[0]} title={headerContent[1]} text={headerContent[2]}/>
 
         {/* Contact Section */}
         <div className="relative bg-white">

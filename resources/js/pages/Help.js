@@ -1,9 +1,8 @@
 import React from 'react'
 
 //COMPONENTS
-import HelpHeader from '../components/help/Header'
+import HelpHeader from '../components/help/HelpHeader'
 import FAQs from '../components/help/FAQs'
-import CTA from '../components/CTA'
 import ClientBanner from '../components/ClientBanner'
 
 const Help = () => {

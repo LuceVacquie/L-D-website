@@ -61,7 +61,7 @@ const StatContent = () => {
                
                <span className="text-3xl md:text-7xl lg:text-8xl"><br/> trainees recorded</span>
             </div>
-            <p className="text-gray-400 md:text-xl md:pt-12">
+            <p className="text-gray-300 md:text-xl md:pt-12">
                 Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
                 aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend
                 egestas fringilla sapien.
@@ -88,28 +88,28 @@ const StatContent = () => {
                 <div className="text-white text-4xl md:text-6xl font-extrabold">
                     23,775 items
                 </div>
-                <p className="text-gray-400 md:text-xl">
+                <p className="text-gray-300 md:text-xl">
                     Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
                     aliquam. Quisque id at vitae feugiat egestas ac.
                 </p>
             </div>
         </div>
 
-        <div className="mt-12 mx-auto px-8 md:grid md:grid-cols-2 items-center lg:grid-cols-3 lg:grid-rows-2 lg:gap-12 lg:max-w-7xl lg:px-12">
+        <div className="mt-12 mx-auto px-8 md:grid md:grid-cols-2 items-center lg:gap-12 lg:max-w-7xl lg:px-12">
             {/* Third block */}
-            <div className="lg:col-span-1">
+            <div className="">
                 <div className="text-xl text-amber-600">
-                    Safe systems of work
+                    Legal changes recorded
                 </div>
                 <div className="text-white text-6xl md:text-8xl font-extrabold">
-                    17,319 
+                    2, 757
                 </div>
-                <div className="text-white text-3xl font-bold">
-                    completed on the app
+                <div className=" text-gray-300 md:text-xl">
+                    Name changes, leave dates...
                 </div>
             </div>
             {/* Forth block */}
-            <div className="lg:col-span-2">
+            <div className="">
                 <div className="pt-12 md:pt-0 md:grid md:grid-cols-2"> 
                     <div className="text-amber-600 font-extrabold text-8xl md:text-right md:text-10xl">
                         84
@@ -120,20 +120,19 @@ const StatContent = () => {
                 </div>
             </div>
             {/* Fith block */}
-            <div className="pt-12 col-span-2 md:pr-12 lg:pr-24">
+            <div className="pt-12  md:pr-12 lg:pr-24">
                 <div className="text-xl text-amber-600">
-                    Training added to the training schedule
+                    Safe systems of work 
                 </div>
-                <div className="text-white text-4xl md:text-6xl font-extrabold">
-                    23,775 items
+                <div className="text-white text-6xl md:text-8xl font-extrabold">
+                    17,319 
                 </div>
-                <p className="text-gray-400 md:text-xl">
-                    Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
-                    aliquam. Quisque id at vitae feugiat egestas ac.
-                </p>
+                <div className="text-white text-3xl font-bold">
+                    completed on the app 
+                </div>
             </div>
             {/* Sith block */}
-            <div className="pt-12 col-span-2 lg:pt-0 lg:col-span-1">
+            <div className="pt-12  lg:pt-0 lg:col-span-1">
                 <div className="text-white text-6xl md:text-8xl font-extrabold">
                     4,380
                 </div>
