@@ -7,7 +7,6 @@ import Home from './pages/Homepage'
 import Features from './pages/Features'
 import Stats from './pages/Stats'
 import Pricing from './pages/Pricing'
-// import About from './pages/About'
 import Help from './pages/Help'
 import Contact from './pages/Contact'
 
@@ -29,7 +28,6 @@ function Router() {
                         <Route exact path="/features" component={Features} />
                         <Route exact path="/stats" component={Stats} />
                         <Route exact path="/pricing" component={Pricing} />
-                        {/* <Route path="/about" component={About} /> */}
                         <Route path="/help" component={Help} />
                         <Route path="/contact" component={Contact} />
                     </Switch>

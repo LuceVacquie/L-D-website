@@ -5,7 +5,7 @@ const PerfectFor = () => {
       <div className="h-screen relative bg-white lg:pb-24">
         <div className="h-full lg:mx-auto grid grid-rows-2 lg:grid-cols-2 lg:grid-rows-1 lg:items-start">
           <div className="h-full relative sm:py-16 lg:py-0">
-            <div aria-hidden="true" className="sm:block absolute inset-y-0 right-0 w-screen bg-teal-700"/>
+            <div aria-hidden="true" className="sm:block absolute inset-y-0 right-0 w-screen bg-darkTeal"/>
             
             <div className="h-full mx-8 lg:max-w-7xl md:mr-24 grid grid-cols-2 gap-2 items-center">
                 {/* First row */}
@@ -17,8 +17,8 @@ const PerfectFor = () => {
                         src="https://images.unsplash.com/photo-1521510895919-46920266ddb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100"
                         alt=""
                         />
-                        <div className="absolute inset-0 bg-amber-500 mix-blend-multiply" />
-                        <div className="absolute inset-0 bg-gradient-to-t from-amber-600 via-amber-600 opacity-90" />
+                        <div className="absolute inset-0 bg-lightTeal mix-blend-multiply" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-lightTeal via-lightTeal opacity-90" />
                         <div className="relative px-8 text-white ">
                             Supply chain
                         </div>
@@ -30,8 +30,8 @@ const PerfectFor = () => {
                         src="https://images.unsplash.com/photo-1521510895919-46920266ddb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100"
                         alt=""
                         />
-                        <div className="absolute inset-0 bg-amber-500 mix-blend-multiply" />
-                        <div className="absolute inset-0 bg-gradient-to-t from-amber-600 via-amber-600 opacity-90" />
+                        <div className="absolute inset-0 bg-lightTeal mix-blend-multiply" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-lightTeal via-lightTeal opacity-90" />
                         <div className="relative px-8 text-white ">
                             Workers
                         </div>
@@ -46,8 +46,8 @@ const PerfectFor = () => {
                         src="https://images.unsplash.com/photo-1521510895919-46920266ddb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100"
                         alt=""
                         />
-                        <div className="absolute inset-0 bg-amber-500 mix-blend-multiply" />
-                        <div className="absolute inset-0 bg-gradient-to-t from-amber-600 via-amber-600 opacity-90" />
+                        <div className="absolute inset-0 bg-lightTeal mix-blend-multiply" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-lightTeal via-lightTeal opacity-90" />
                         <div className="relative px-8 text-white ">
                             Transport
                         </div>
@@ -59,8 +59,8 @@ const PerfectFor = () => {
                         src="https://images.unsplash.com/photo-1521510895919-46920266ddb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100"
                         alt=""
                         />
-                        <div className="absolute inset-0 bg-amber-500 mix-blend-multiply" />
-                        <div className="absolute inset-0 bg-gradient-to-t from-amber-600 via-amber-600 opacity-90" />
+                        <div className="absolute inset-0 bg-lightTeal mix-blend-multiply" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-lightTeal via-lightTeal opacity-90" />
                         <div className="relative px-8 text-white ">
                             Manufacturers
                         </div>
@@ -75,7 +75,7 @@ const PerfectFor = () => {
               <h2 className="text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl">
                 A perfect fit
               </h2>
-              <div className="mt-6 text-gray-500 space-y-6">
+              <div className="mt-6 text-grey space-y-6">
                 <p className="text-lg">
                   Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique
                   pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel

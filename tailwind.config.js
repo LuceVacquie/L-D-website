@@ -23,10 +23,15 @@ module.exports = {
                 cyan: colors.cyan,
                 green: colors.green,
                 emerald: colors.emerald,
+                darkTeal: '#004146',
+                lightTeal: '#018076',
+                turquoise: '#03BFB5',
+                grey: '#949398',
+                lightGrey: '#EFF5F9'
             },
-            // fontSize: {
-            //     '10xl': '10rem',
-            // },
+            fontSize: {
+                '10xl': '12rem',
+            },
         },
     },
 

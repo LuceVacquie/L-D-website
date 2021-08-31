@@ -35,15 +35,15 @@ const Features = () => {
             </div>
             <div className="relative bg-white pb-16 sm:pb-24 lg:pb-32">
                 <div className="mx-auto max-w-md px-4 text-center sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
-                    <h2 className="text-2xl font-semibold tracking-wider text-amber-600 uppercase">Key Features</h2>
+                    <h2 className="text-2xl font-semibold tracking-wider text-lightTeal uppercase">Key Features</h2>
                     <div className="mt-12">
                         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
                             {features.map((feature) => (
                             <div key={feature.name} className="pt-6">
-                                <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
+                                <div className="flow-root bg-lightGrey rounded-lg px-6 pb-8">
                                     <div className="-mt-6">
                                         <div>
-                                            <span className="inline-flex items-center justify-center p-3 bg-teal-500 rounded-md shadow-lg">
+                                            <span className="inline-flex items-center justify-center p-3 bg-turquoise rounded-md shadow-lg">
                                                 <feature.icon className="h-6 w-6 text-white" aria-hidden="true" />
                                             </span>
                                         </div>
@@ -58,7 +58,7 @@ const Features = () => {
                         </div>
  
                         <div className="mt-12 flex items-center justify-center">
-                            <a href='/features' className="whitespace-nowrap px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-amber-600 hover:bg-amber-800">
+                            <a href='/features' className="whitespace-nowrap px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-lightTeal hover:bg-darkTeal">
                                 View all features
                             </a>
                         </div>

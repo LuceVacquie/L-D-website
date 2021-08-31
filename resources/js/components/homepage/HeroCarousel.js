@@ -62,7 +62,7 @@ const HeroCarousel = () => {
             <div className="absolute w-full text-center z-10 -mt-44">
             {slides.map((_, idx) => (
                 <div 
-                    className="inline-block h-4 w-4 rounded-full pointer m-6 bg-teal-300 active:bg-teal-100" 
+                    className="inline-block h-4 w-4 rounded-full pointer m-6 bg-lightTeal active:bg-turquoise" 
                     key={idx}
                     onClick={() => {setIndex(idx)}}
                 ></div>

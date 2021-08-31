@@ -111,10 +111,10 @@ const StatContent = () => {
             {/* Forth block */}
             <div className="">
                 <div className="pt-12 md:pt-0 md:grid md:grid-cols-2"> 
-                    <div className="text-amber-600 font-extrabold text-8xl md:text-right md:text-10xl">
+                    <div className="text-amber-600 font-extrabold text-8xl md:text-10xl">
                         84
                     </div>
-                    <div className="text-white self-center text-3xl lg:text-6xl font-extrabold">
+                    <div className="text-white self-center text-3xl lg:text-5xl font-extrabold">
                         Users, team leaders & admin added
                     </div>
                 </div>
