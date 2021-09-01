@@ -46,7 +46,7 @@ const HeroCarousel = () => {
                 <div className="lg:grid lg:grid-cols-3">
                     
                     <div className="relative w-full pt-28 pb-12 lg:py-18 col-span-2 lg:grid-flow-row">
-                        <h2 className="pb-24 text-2xl font-semibold tracking-wider text-amber-600 uppercase text-center">Testimonials</h2>
+                        <h2 className="pb-24 text-2xl font-semibold tracking-wider text-lightTeal uppercase text-center">Testimonials</h2>
                         {/* Slides */}
                         <div 
                             className="whitespace-nowrap transition duration-1000 ease md:mx-10 " 

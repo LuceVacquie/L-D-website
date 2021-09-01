@@ -36,7 +36,7 @@ const HelpHeader = () => {
             src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&&sat=-100"
             alt=""
           />
-          <div className="absolute inset-0 bg-teal-800 mix-blend-multiply" aria-hidden="true" />
+          <div className="absolute inset-0 bg-darkTeal mix-blend-multiply" aria-hidden="true" />
         </div>
         <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
           <h1 className="text-4xl font-extrabold tracking-tight text-white md:text-5xl lg:text-6xl">Need some help?</h1>
@@ -59,7 +59,7 @@ const HelpHeader = () => {
           {supportLinks.map((link) => (
             <div key={link.name} className="flex flex-col bg-white rounded-2xl shadow-xl">
               <div className="flex-1 relative pt-16 px-6 pb-8 md:px-8">
-                <div className="absolute top-0 p-5 inline-block bg-amber-600 rounded-xl shadow-lg transform -translate-y-1/2">
+                <div className="absolute top-0 p-5 inline-block bg-turquoise rounded-xl shadow-lg transform -translate-y-1/2">
                   <link.icon className="h-6 w-6 text-white" aria-hidden="true" />
                 </div>
                 <h3 className="text-xl font-medium text-gray-900">{link.name}</h3>

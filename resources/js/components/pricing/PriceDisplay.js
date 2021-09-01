@@ -16,7 +16,7 @@ const PriceDisplay = ({ isDetailsVisible, setIsDetailsVisible }) => {
     <div className="pt-20 bg-teal-900">
       <div className="pt-12 px-4 sm:px-6 lg:px-8 lg:pt-20">
         <div className="text-center">
-          <h2 className="text-2xl font-semibold tracking-wider text-amber-600 uppercase">Pricing</h2>
+          <h2 className="text-2xl font-semibold tracking-wider text-turquoise uppercase">Pricing</h2>
           <p className="mt-2 text-3xl font-extrabold text-white sm:text-4xl lg:text-5xl">
             The right price for you, whoever you are
           </p>
@@ -64,7 +64,7 @@ const PriceDisplay = ({ isDetailsVisible, setIsDetailsVisible }) => {
                         <div className="rounded-lg shadow-md">
                           <button
                             onClick={() => setIsDetailsVisible(!isDetailsVisible)}
-                            className="block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-amber-600 hover:bg-gray-50"
+                            className="block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-turquoise hover:bg-gray-50"
                             aria-describedby="tier-hobby"
                           >
                             View plan details
@@ -78,12 +78,12 @@ const PriceDisplay = ({ isDetailsVisible, setIsDetailsVisible }) => {
               <div className="mt-10 max-w-lg mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-start-3 lg:col-end-6 lg:row-start-1 lg:row-end-4">
                 <div className="relative z-10 rounded-lg shadow-xl">
                   <div
-                    className="pointer-events-none absolute inset-0 rounded-lg border-2 border-amber-600"
+                    className="pointer-events-none absolute inset-0 rounded-lg border-2 border-turquoise"
                     aria-hidden="true"
                   />
                   <div className="absolute inset-x-0 top-0 transform translate-y-px">
                     <div className="flex justify-center transform -translate-y-1/2">
-                      <span className="inline-flex rounded-full bg-amber-600 px-4 py-1 text-sm font-semibold tracking-wider uppercase text-white">
+                      <span className="inline-flex rounded-full bg-turquoise px-4 py-1 text-sm font-semibold tracking-wider uppercase text-white">
                         Most popular
                       </span>
                     </div>
@@ -117,7 +117,7 @@ const PriceDisplay = ({ isDetailsVisible, setIsDetailsVisible }) => {
                       <div className="rounded-lg shadow-md">
                         <button
                           onClick={() => setIsDetailsVisible(!isDetailsVisible)}
-                          className="block w-full text-center rounded-lg border border-transparent bg-amber-600 px-6 py-4 text-xl leading-6 font-medium text-white hover:bg-amber-700"
+                          className="block w-full text-center rounded-lg border border-transparent bg-turquoise px-6 py-4 text-xl leading-6 font-medium text-white hover:bg-amber-700"
                           aria-describedby="tier-growth"
                         >
                           View plan details
@@ -159,7 +159,7 @@ const PriceDisplay = ({ isDetailsVisible, setIsDetailsVisible }) => {
                         <div className="rounded-lg shadow-md">
                           <button
                             onClick={() => setIsDetailsVisible(!isDetailsVisible)}
-                            className="block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-amber-600 hover:bg-gray-50"
+                            className="block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-turquoise hover:bg-gray-50"
                             aria-describedby="tier-scale"
                           >
                             View plan details

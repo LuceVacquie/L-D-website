@@ -18304,7 +18304,7 @@ var FeatureContent = function FeatureContent() {
           children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span", {
-                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400",
+                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_0__.InboxIcon, {
                   className: "h-6 w-6 text-white",
                   "aria-hidden": "true"
@@ -18322,7 +18322,7 @@ var FeatureContent = function FeatureContent() {
                 className: "mt-6",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
                   href: "#",
-                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700",
+                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal",
                   children: "Get started"
                 })
               })]
@@ -18375,7 +18375,7 @@ var FeatureContent = function FeatureContent() {
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span", {
-                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400",
+                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_0__.SparklesIcon, {
                   className: "h-6 w-6 text-white",
                   "aria-hidden": "true"
@@ -18393,7 +18393,7 @@ var FeatureContent = function FeatureContent() {
                 className: "mt-6",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
                   href: "#",
-                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700",
+                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal",
                   children: "Get started"
                 })
               })]
@@ -18420,7 +18420,7 @@ var FeatureContent = function FeatureContent() {
           children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span", {
-                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400",
+                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_0__.InboxIcon, {
                   className: "h-6 w-6 text-white",
                   "aria-hidden": "true"
@@ -18438,7 +18438,7 @@ var FeatureContent = function FeatureContent() {
                 className: "mt-6",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
                   href: "#",
-                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700",
+                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal",
                   children: "Get started"
                 })
               })]
@@ -18491,7 +18491,7 @@ var FeatureContent = function FeatureContent() {
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span", {
-                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400",
+                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_0__.SparklesIcon, {
                   className: "h-6 w-6 text-white",
                   "aria-hidden": "true"
@@ -18509,7 +18509,7 @@ var FeatureContent = function FeatureContent() {
                 className: "mt-6",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
                   href: "#",
-                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700",
+                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal",
                   children: "Get started"
                 })
               })]
@@ -18536,7 +18536,7 @@ var FeatureContent = function FeatureContent() {
           children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span", {
-                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400",
+                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_0__.InboxIcon, {
                   className: "h-6 w-6 text-white",
                   "aria-hidden": "true"
@@ -18554,7 +18554,7 @@ var FeatureContent = function FeatureContent() {
                 className: "mt-6",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
                   href: "#",
-                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700",
+                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal",
                   children: "Get started"
                 })
               })]
@@ -18607,7 +18607,7 @@ var FeatureContent = function FeatureContent() {
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span", {
-                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400",
+                className: "h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_heroicons_react_outline__WEBPACK_IMPORTED_MODULE_0__.SparklesIcon, {
                   className: "h-6 w-6 text-white",
                   "aria-hidden": "true"
@@ -18625,7 +18625,7 @@ var FeatureContent = function FeatureContent() {
                 className: "mt-6",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("a", {
                   href: "#",
-                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700",
+                  className: "inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal",
                   children: "Get started"
                 })
               })]
@@ -19224,7 +19224,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var Stats = function Stats() {
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
-    className: "bg-teal-800",
+    className: "bg-darkTeal",
     children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
       className: "max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8 lg:py-20",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
@@ -19236,7 +19236,7 @@ var Stats = function Stats() {
           className: "text-3xl font-extrabold text-white sm:text-4xl",
           children: "Trusted by developers from over 80 planets"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
-          className: "mt-3 text-xl text-teal-200 sm:mt-4",
+          className: "mt-3 text-xl text-turquoise sm:mt-4",
           children: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus repellat laudantium."
         })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
@@ -19298,14 +19298,14 @@ var FirstTestimonial = function FirstTestimonial() {
                 className: "text-base font-medium text-gray-900",
                 children: "Toni Mitchell-Taylor"
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
-                className: "text-base font-medium text-indigo-600",
+                className: "text-base font-medium text-lightTeal",
                 children: "Learning & Development Advisor, XPO Logistics"
               })]
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
               className: "hidden md:flex justify-end items-center w-full",
               children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19313,7 +19313,7 @@ var FirstTestimonial = function FirstTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19321,7 +19321,7 @@ var FirstTestimonial = function FirstTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19329,7 +19329,7 @@ var FirstTestimonial = function FirstTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19337,7 +19337,7 @@ var FirstTestimonial = function FirstTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19382,14 +19382,14 @@ var SecondTestimonial = function SecondTestimonial() {
                 className: "text-base font-medium text-gray-900",
                 children: "Tony Hay"
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("div", {
-                className: "text-base font-medium text-indigo-600",
+                className: "text-base font-medium text-lightTeal",
                 children: "Learning & Development Manager, XPO Logistics"
               })]
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
               className: "hidden md:flex justify-end items-center w-full",
               children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19397,7 +19397,7 @@ var SecondTestimonial = function SecondTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19405,7 +19405,7 @@ var SecondTestimonial = function SecondTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19413,7 +19413,7 @@ var SecondTestimonial = function SecondTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19421,7 +19421,7 @@ var SecondTestimonial = function SecondTestimonial() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
-                className: "h-6 w-6 text-amber-600",
+                className: "h-6 w-6 text-turquoise",
                 viewBox: "0 0 20 20",
                 fill: "currentColor",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path", {
@@ -19509,7 +19509,7 @@ var HeroCarousel = function HeroCarousel() {
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
         className: "relative w-full pt-28 pb-12 lg:py-18 col-span-2 lg:grid-flow-row",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h2", {
-          className: "pb-24 text-2xl font-semibold tracking-wider text-amber-600 uppercase text-center",
+          className: "pb-24 text-2xl font-semibold tracking-wider text-lightTeal uppercase text-center",
           children: "Testimonials"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
           className: "whitespace-nowrap transition duration-1000 ease md:mx-10 ",
@@ -19603,7 +19603,7 @@ __webpack_require__.r(__webpack_exports__);
 var CTA = function CTA() {
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("div", {
     children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("div", {
-      className: "bg-gradient-to-r from-teal-600 to-emerald-400",
+      className: "bg-gradient-to-r from-lightTeal to-turquoise",
       children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
         className: "max-w-2xl mx-auto py-16 px-4 text-center sm:py-20 sm:px-6 lg:px-8",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h2", {
@@ -19819,7 +19819,7 @@ var navigation = {
 
 var Footer = function Footer() {
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("footer", {
-    className: "w-full bg-teal-900",
+    className: "w-full bg-darkTeal",
     children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)("div", {
       className: "max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("nav", {
@@ -19882,13 +19882,13 @@ var FeaturesHeader = function FeaturesHeader(_ref) {
       title = _ref.title,
       text = _ref.text;
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("div", {
-    className: "pt-24 bg-teal-900",
+    className: "pt-24 bg-darkTeal",
     children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("div", {
       className: "max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8",
       children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
         className: "text-center",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("h2", {
-          className: "text-2xl font-semibold tracking-wider text-amber-600 uppercase",
+          className: "text-2xl font-semibold tracking-wider text-turquoise uppercase",
           children: h2
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("p", {
           className: "mt-1 text-4xl font-extrabold text-white sm:text-5xl sm:tracking-tight lg:text-6xl",
@@ -20257,7 +20257,7 @@ var HelpHeader = function HelpHeader() {
           src: "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&&sat=-100",
           alt: ""
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-          className: "absolute inset-0 bg-teal-800 mix-blend-multiply",
+          className: "absolute inset-0 bg-darkTeal mix-blend-multiply",
           "aria-hidden": "true"
         })]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
@@ -20285,7 +20285,7 @@ var HelpHeader = function HelpHeader() {
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
               className: "flex-1 relative pt-16 px-6 pb-8 md:px-8",
               children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-                className: "absolute top-0 p-5 inline-block bg-amber-600 rounded-xl shadow-lg transform -translate-y-1/2",
+                className: "absolute top-0 p-5 inline-block bg-turquoise rounded-xl shadow-lg transform -translate-y-1/2",
                 children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(link.icon, {
                   className: "h-6 w-6 text-white",
                   "aria-hidden": "true"
@@ -20693,7 +20693,7 @@ var PriceDisplay = function PriceDisplay(_ref) {
       children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
         className: "text-center",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h2", {
-          className: "text-2xl font-semibold tracking-wider text-amber-600 uppercase",
+          className: "text-2xl font-semibold tracking-wider text-turquoise uppercase",
           children: "Pricing"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("p", {
           className: "mt-2 text-3xl font-extrabold text-white sm:text-4xl lg:text-5xl",
@@ -20770,7 +20770,7 @@ var PriceDisplay = function PriceDisplay(_ref) {
                           onClick: function onClick() {
                             return setIsDetailsVisible(!isDetailsVisible);
                           },
-                          className: "block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-amber-600 hover:bg-gray-50",
+                          className: "block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-turquoise hover:bg-gray-50",
                           "aria-describedby": "tier-hobby",
                           children: "View plan details"
                         })
@@ -20784,14 +20784,14 @@ var PriceDisplay = function PriceDisplay(_ref) {
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
                 className: "relative z-10 rounded-lg shadow-xl",
                 children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
-                  className: "pointer-events-none absolute inset-0 rounded-lg border-2 border-amber-600",
+                  className: "pointer-events-none absolute inset-0 rounded-lg border-2 border-turquoise",
                   "aria-hidden": "true"
                 }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
                   className: "absolute inset-x-0 top-0 transform translate-y-px",
                   children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("div", {
                     className: "flex justify-center transform -translate-y-1/2",
                     children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("span", {
-                      className: "inline-flex rounded-full bg-amber-600 px-4 py-1 text-sm font-semibold tracking-wider uppercase text-white",
+                      className: "inline-flex rounded-full bg-turquoise px-4 py-1 text-sm font-semibold tracking-wider uppercase text-white",
                       children: "Most popular"
                     })
                   })
@@ -20846,7 +20846,7 @@ var PriceDisplay = function PriceDisplay(_ref) {
                         onClick: function onClick() {
                           return setIsDetailsVisible(!isDetailsVisible);
                         },
-                        className: "block w-full text-center rounded-lg border border-transparent bg-amber-600 px-6 py-4 text-xl leading-6 font-medium text-white hover:bg-amber-700",
+                        className: "block w-full text-center rounded-lg border border-transparent bg-turquoise px-6 py-4 text-xl leading-6 font-medium text-white hover:bg-amber-700",
                         "aria-describedby": "tier-growth",
                         children: "View plan details"
                       })
@@ -20911,7 +20911,7 @@ var PriceDisplay = function PriceDisplay(_ref) {
                           onClick: function onClick() {
                             return setIsDetailsVisible(!isDetailsVisible);
                           },
-                          className: "block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-amber-600 hover:bg-gray-50",
+                          className: "block w-full text-center rounded-lg border border-transparent bg-white px-6 py-3 text-base font-medium text-turquoise hover:bg-gray-50",
                           "aria-describedby": "tier-scale",
                           children: "View plan details"
                         })
@@ -21003,11 +21003,11 @@ var StatContent = function StatContent() {
       setFocus = _useState2[1];
 
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
-    className: "relative bg-gradient-to-t from-teal-900 to-emerald-600 pt-16 pb-32 overflow-hidden",
+    className: "relative bg-gradient-to-t from-darkTeal to-lightTeal pt-16 pb-32 overflow-hidden",
     children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
       className: "mx-auto px-8 lg:max-w-7xl lg:px-12",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-        className: "text-xl text-amber-600 pt-12",
+        className: "text-xl text-turquoise pt-12",
         children: "We've changed the life to"
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "text-white text-6xl md:text-8xl lg:text-9xl font-extrabold",
@@ -21043,7 +21043,7 @@ var StatContent = function StatContent() {
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "lg:col-span-2",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-          className: "text-xl text-amber-600",
+          className: "text-xl text-turquoise",
           children: "Companies that put their destiny in our hands"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
           className: "text-white text-7xl md:text-9xl font-extrabold uppercase",
@@ -21052,7 +21052,7 @@ var StatContent = function StatContent() {
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "pt-12 md:pt-0 lg:col-span-2",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-          className: "text-xl text-amber-600",
+          className: "text-xl text-turquoise",
           children: "Training added to the training schedule"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
           className: "text-white text-4xl md:text-6xl font-extrabold",
@@ -21067,7 +21067,7 @@ var StatContent = function StatContent() {
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-          className: "text-xl text-amber-600",
+          className: "text-xl text-turquoise",
           children: "Legal changes recorded"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
           className: "text-white text-6xl md:text-8xl font-extrabold",
@@ -21081,7 +21081,7 @@ var StatContent = function StatContent() {
         children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
           className: "pt-12 md:pt-0 md:grid md:grid-cols-2",
           children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-            className: "text-amber-600 font-extrabold text-8xl md:text-10xl",
+            className: "text-turquoise font-extrabold text-8xl md:text-10xl",
             children: "84"
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
             className: "text-white self-center text-3xl lg:text-5xl font-extrabold",
@@ -21091,7 +21091,7 @@ var StatContent = function StatContent() {
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "pt-12  md:pr-12 lg:pr-24",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-          className: "text-xl text-amber-600",
+          className: "text-xl text-turquoise",
           children: "Safe systems of work"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
           className: "text-white text-6xl md:text-8xl font-extrabold",
@@ -21106,7 +21106,7 @@ var StatContent = function StatContent() {
           className: "text-white text-6xl md:text-8xl font-extrabold",
           children: "4,380"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-          className: "text-amber-600 font-bold text-3xl md:text-4xl",
+          className: "text-turquoise font-bold text-3xl md:text-4xl",
           children: "Reports downloaded"
         })]
       })]
@@ -21132,7 +21132,7 @@ var StatContent = function StatContent() {
               children: "54% "
             }), "Reduction in time for administration tasks"]
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
-            className: "text-amber-600 pt-8",
+            className: "text-turquoise pt-8",
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("span", {
               className: "text-2xl font-bold lg:text-4xl",
               children: "51% "
@@ -21163,7 +21163,7 @@ var StatContent = function StatContent() {
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
             className: "pt-8",
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("span", {
-              className: "text-amber-600 text-4xl font-bold",
+              className: "text-turquoise text-4xl font-bold",
               children: "51%"
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("br", {}), "Reduction in time for training input & preparation"]
           })]

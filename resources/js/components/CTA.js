@@ -1,7 +1,7 @@
 const CTA = () => {
     return (
       <div>
-        <div className="bg-gradient-to-r from-teal-600 to-emerald-400">
+        <div className="bg-gradient-to-r from-lightTeal to-turquoise">
           <div className="max-w-2xl mx-auto py-16 px-4 text-center sm:py-20 sm:px-6 lg:px-8">
             <h2 className="text-3xl font-extrabold text-white sm:text-4xl">
               <span className="block">Boost your productivity.</span>

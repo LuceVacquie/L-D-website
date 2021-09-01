@@ -43,11 +43,11 @@ const StatContent = () => {
 
 
   return (
-    <div className="relative bg-gradient-to-t from-teal-900 to-emerald-600 pt-16 pb-32 overflow-hidden">
+    <div className="relative bg-gradient-to-t from-darkTeal to-lightTeal pt-16 pb-32 overflow-hidden">
 
         {/* First row, full width */}
         <div className="mx-auto px-8 lg:max-w-7xl lg:px-12">
-            <div className="text-xl text-amber-600 pt-12">
+            <div className="text-xl text-turquoise pt-12">
                 We've changed the life to
             </div>
             <div className="text-white text-6xl md:text-8xl lg:text-9xl font-extrabold">
@@ -73,7 +73,7 @@ const StatContent = () => {
         <div className="mt-12 md:mt-24 md:grid mx-auto px-8 md:grid-cols-2 lg:grid-cols-4 lg:gap-8 xl:gap-12 lg:max-w-7xl lg:px-12">
             {/* First block */}
             <div className="lg:col-span-2">
-                <div className="text-xl text-amber-600">
+                <div className="text-xl text-turquoise">
                     Companies that put their destiny in our hands
                 </div>
                 <div className="text-white text-7xl md:text-9xl font-extrabold uppercase">
@@ -82,7 +82,7 @@ const StatContent = () => {
             </div>
             {/* Second block */}
             <div className="pt-12 md:pt-0 lg:col-span-2">
-                <div className="text-xl text-amber-600">
+                <div className="text-xl text-turquoise">
                     Training added to the training schedule
                 </div>
                 <div className="text-white text-4xl md:text-6xl font-extrabold">
@@ -98,7 +98,7 @@ const StatContent = () => {
         <div className="mt-12 mx-auto px-8 md:grid md:grid-cols-2 items-center lg:gap-12 lg:max-w-7xl lg:px-12">
             {/* Third block */}
             <div className="">
-                <div className="text-xl text-amber-600">
+                <div className="text-xl text-turquoise">
                     Legal changes recorded
                 </div>
                 <div className="text-white text-6xl md:text-8xl font-extrabold">
@@ -111,7 +111,7 @@ const StatContent = () => {
             {/* Forth block */}
             <div className="">
                 <div className="pt-12 md:pt-0 md:grid md:grid-cols-2"> 
-                    <div className="text-amber-600 font-extrabold text-8xl md:text-10xl">
+                    <div className="text-turquoise font-extrabold text-8xl md:text-10xl">
                         84
                     </div>
                     <div className="text-white self-center text-3xl lg:text-5xl font-extrabold">
@@ -121,7 +121,7 @@ const StatContent = () => {
             </div>
             {/* Fith block */}
             <div className="pt-12  md:pr-12 lg:pr-24">
-                <div className="text-xl text-amber-600">
+                <div className="text-xl text-turquoise">
                     Safe systems of work 
                 </div>
                 <div className="text-white text-6xl md:text-8xl font-extrabold">
@@ -136,7 +136,7 @@ const StatContent = () => {
                 <div className="text-white text-6xl md:text-8xl font-extrabold">
                     4,380
                 </div>
-                <div className="text-amber-600 font-bold text-3xl md:text-4xl">
+                <div className="text-turquoise font-bold text-3xl md:text-4xl">
                     Reports downloaded
                 </div>
             </div>
@@ -159,7 +159,7 @@ const StatContent = () => {
                         <span className="text-2xl font-bold lg:text-4xl">54% </span>
                         Reduction in time for administration tasks
                     </div>
-                    <div className="text-amber-600 pt-8">
+                    <div className="text-turquoise pt-8">
                         <span className="text-2xl font-bold lg:text-4xl">51% </span>
                         Reduction in time for training input & preparation
                     </div>
@@ -182,7 +182,7 @@ const StatContent = () => {
                         Reduction in time for administration tasks
                     </div>
                     <div className="pt-8">
-                        <span className="text-amber-600 text-4xl font-bold">51%</span>
+                        <span className="text-turquoise text-4xl font-bold">51%</span>
                         <br/> 
                         Reduction in time for training input & preparation
                     </div>

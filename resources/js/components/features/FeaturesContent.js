@@ -9,7 +9,7 @@ const FeatureContent = () => {
           <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0">
             <div>
               <div>
-                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400">
+                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise">
                   <InboxIcon className="h-6 w-6 text-white" aria-hidden="true" />
                 </span>
               </div>
@@ -25,7 +25,7 @@ const FeatureContent = () => {
                 <div className="mt-6">
                   <a
                     href="#"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700"
+                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal"
                   >
                     Get started
                   </a>
@@ -73,7 +73,7 @@ const FeatureContent = () => {
           <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-32 lg:max-w-none lg:mx-0 lg:px-0 lg:col-start-2">
             <div>
               <div>
-                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400">
+                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise">
                   <SparklesIcon className="h-6 w-6 text-white" aria-hidden="true" />
                 </span>
               </div>
@@ -89,7 +89,7 @@ const FeatureContent = () => {
                 <div className="mt-6">
                   <a
                     href="#"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700"
+                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal"
                   >
                     Get started
                   </a>
@@ -115,7 +115,7 @@ const FeatureContent = () => {
           <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0">
             <div>
               <div>
-                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400">
+                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise">
                   <InboxIcon className="h-6 w-6 text-white" aria-hidden="true" />
                 </span>
               </div>
@@ -131,7 +131,7 @@ const FeatureContent = () => {
                 <div className="mt-6">
                   <a
                     href="#"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700"
+                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal"
                   >
                     Get started
                   </a>
@@ -179,7 +179,7 @@ const FeatureContent = () => {
           <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-32 lg:max-w-none lg:mx-0 lg:px-0 lg:col-start-2">
             <div>
               <div>
-                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400">
+                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise">
                   <SparklesIcon className="h-6 w-6 text-white" aria-hidden="true" />
                 </span>
               </div>
@@ -195,7 +195,7 @@ const FeatureContent = () => {
                 <div className="mt-6">
                   <a
                     href="#"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700"
+                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal"
                   >
                     Get started
                   </a>
@@ -221,7 +221,7 @@ const FeatureContent = () => {
           <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0">
             <div>
               <div>
-                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400">
+                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise">
                   <InboxIcon className="h-6 w-6 text-white" aria-hidden="true" />
                 </span>
               </div>
@@ -237,7 +237,7 @@ const FeatureContent = () => {
                 <div className="mt-6">
                   <a
                     href="#"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700"
+                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal"
                   >
                     Get started
                   </a>
@@ -285,7 +285,7 @@ const FeatureContent = () => {
           <div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-32 lg:max-w-none lg:mx-0 lg:px-0 lg:col-start-2">
             <div>
               <div>
-                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-teal-600 to-emerald-400">
+                <span className="h-12 w-12 rounded-md flex items-center justify-center bg-gradient-to-r from-lightTeal to-turquoise">
                   <SparklesIcon className="h-6 w-6 text-white" aria-hidden="true" />
                 </span>
               </div>
@@ -301,7 +301,7 @@ const FeatureContent = () => {
                 <div className="mt-6">
                   <a
                     href="#"
-                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700"
+                    className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lightTeal hover:bg-darkTeal"
                   >
                     Get started
                   </a>
